@@ -1,8 +1,4 @@
-function eat (food){
-  return food + ' tasted really good.'
-}
+const eat = food => `${food} tasted really good.`;
+const msg = eat('Bananas');
 
-var statement = eat ('bananas')
-
-
-console.log(statement)
+console.log(msg);

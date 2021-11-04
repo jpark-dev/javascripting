@@ -1,3 +1,4 @@
-const food = ['apple', 'pizza', 'pear']
+const food = ['apple', 'pizza', 'pear'];
+const firstItem = food[1];
 
-console.log(food[1])
+console.log(firstItem);

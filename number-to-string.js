@@ -1,3 +1,4 @@
-var n = 128
+const n = 128;
+const stringifiedNum = n.toString();
 
-console.log(n.toString())
+console.log(stringifiedNum, 128);
