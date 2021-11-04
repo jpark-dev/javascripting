@@ -1,5 +1,4 @@
-var roundUp = 1.5
+const number = 1.5;
+const roundedNum = Math.round(number);
 
-var rounded = Math.round(roundUp)
-
-console.log(rounded)
+console.log(roundedNum, roundedNum === 2, roundedNum === 1);

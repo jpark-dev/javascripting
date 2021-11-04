@@ -1,6 +1,5 @@
-//let example;
-
-//example = 'some string';
+// let example;
+// example = 'some string';
 
 const example = 'some string';
 

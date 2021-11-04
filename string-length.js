@@ -1,4 +1,3 @@
-const example = 'example string'
+const exampleString = 'example string';
 
-console.log(example.length)
-
+console.log(exampleString.length);

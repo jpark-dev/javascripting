@@ -1,7 +1,7 @@
 const pizza = {
-  toppings: ['cheese', 'sauce', 'pepperoni'],
   crust: 'deep dish',
-  serves: 2
-}
+  serves: 2,
+  toppings: ['cheese', 'sauce', 'pepperoni'],
+};
 
-console.log(pizza)
+console.log(pizza);

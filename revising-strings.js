@@ -1,6 +1,4 @@
-let pizza = 'pizza is alright'
+const pizza = 'pizza is alright';
+const newPizza = pizza.replace('alright', 'wonderful');
 
-pizza = pizza.replace('alright', 'wonderful')
-
-console.log(pizza)
-
+console.log(newPizza);
